@@ -1,0 +1,18 @@
+# Secrets - NEVER commit
+credentials.json
+client_secret*.json
+token.json
+*.token
+.env
+.env.*
+.email_organizer_agent/
+draft_log.json
+state_*.json
+standard_responses.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/

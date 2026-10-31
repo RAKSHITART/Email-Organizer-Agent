@@ -1,0 +1,12 @@
+[
+  {
+    "email": "student.example@university.test",
+    "display_name": "Sample Student",
+    "relationship": "student"
+  },
+  {
+    "email": "admin.example@university.test",
+    "display_name": "Sample Administrator",
+    "relationship": "admin"
+  }
+]

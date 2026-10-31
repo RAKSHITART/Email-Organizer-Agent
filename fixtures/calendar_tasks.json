@@ -1,0 +1,14 @@
+[
+  {
+    "item_id": "calendar-task-001",
+    "kind": "meeting_request",
+    "summary": "Example collaborator project meeting request",
+    "scheduled_for": "2026-09-15T14:00:00"
+  },
+  {
+    "item_id": "calendar-task-002",
+    "kind": "task",
+    "summary": "Example department form follow-up",
+    "scheduled_for": "2026-09-16T09:00:00"
+  }
+]

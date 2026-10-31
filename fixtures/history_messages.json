@@ -1,0 +1,30 @@
+[
+  {
+    "thread_id": "history-meeting-001",
+    "sender": "collaborator.example@university.test",
+    "subject": "Example: schedule project meeting",
+    "body": "Could we schedule a project meeting on Tuesday afternoon?",
+    "tags": ["meeting", "collaborator"]
+  },
+  {
+    "thread_id": "history-deadline-002",
+    "sender": "student.example@university.test",
+    "subject": "Example: assignment deadline question",
+    "body": "A student asks whether the assignment deadline can be extended.",
+    "tags": ["deadline", "student"]
+  },
+  {
+    "thread_id": "history-admin-003",
+    "sender": "admin.example@university.test",
+    "subject": "Example: annual department form reminder",
+    "body": "Administrative reminder to submit the annual department form.",
+    "tags": ["admin", "routine"]
+  },
+  {
+    "thread_id": "history-student-004",
+    "sender": "student.example@university.test",
+    "subject": "Example: office hours question",
+    "body": "A student asks about office hours for the course.",
+    "tags": ["student", "question"]
+  }
+]

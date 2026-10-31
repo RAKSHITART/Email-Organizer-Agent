@@ -1,0 +1,12 @@
+[
+  {
+    "reply_id": "prior-deadline-001",
+    "body": "Example owner reply: The published assignment deadline is recorded in the course materials; ask the student to consult it.",
+    "tags": ["student", "deadline"]
+  },
+  {
+    "reply_id": "prior-admin-002",
+    "body": "Example owner reply: The department form reminder is routine administrative work; acknowledge it and track the form.",
+    "tags": ["admin", "routine"]
+  }
+]

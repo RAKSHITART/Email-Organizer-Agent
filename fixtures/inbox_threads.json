@@ -1,0 +1,14 @@
+[
+  {
+    "thread_id": "sample-thread-001",
+    "sender": "student.example@university.test",
+    "subject": "Example: assignment deadline question",
+    "labels": ["student", "deadline"]
+  },
+  {
+    "thread_id": "sample-thread-002",
+    "sender": "admin.example@university.test",
+    "subject": "Example: department form reminder",
+    "labels": ["admin", "routine"]
+  }
+]
